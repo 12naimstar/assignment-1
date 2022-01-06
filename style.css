@@ -29,6 +29,8 @@ section{
 .flexible-container{
     display:flex;
     margin-left: 200px;
+    margin-bottom: 30px;
+    padding-bottom: 40px;
 }
 .experience-quality{
     background-color:paleturquoise;
@@ -53,4 +55,16 @@ section{
 }
 .half-image-size img{
     width: 150px;
+}
+.image-half img{
+    width: 100%;
+}
+.top-banner{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 30%;
+}
+.width-image{
+    padding-left: 15%;
+    padding-right: 10%;
 }
