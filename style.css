@@ -26,3 +26,31 @@ section{
     font-weight: 700px;
     border-radius: 5px;
 }
+.flexible-container{
+    display:flex;
+    margin-left: 200px;
+}
+.experience-quality{
+    background-color:paleturquoise;
+    border-radius: 10px;
+    width: 20%;
+    margin: 20px;
+    padding: 20px;
+}
+.experience-style{
+    background-color:pink;
+    border-radius: 10px;
+    width: 20%;
+    margin: 20px;
+    padding: 20px;
+}
+.experience-unit{
+    background-color:wheat;
+    border-radius: 10px;
+    width: 20%;
+    margin: 20px;
+    padding: 20px;
+}
+.half-image-size img{
+    width: 150px;
+}
